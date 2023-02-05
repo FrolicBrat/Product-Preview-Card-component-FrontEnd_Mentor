@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/maudlinmandrake/product-preview-card-component)
-- Live Site URL: [Live](https://maudlinmandrake.github.io/product-preview-card-component)
+- Solution URL: [Solution](https://github.com/FrolicBrat/Product-Preview-Card-component-FrontEnd_Mentor)
+- Live Site URL: [Live](link here)
 
 ## My process
 
