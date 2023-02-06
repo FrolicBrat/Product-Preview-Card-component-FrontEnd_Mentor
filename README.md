@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/FrolicBrat/Product-Preview-Card-component-FrontEnd_Mentor)
-- Live Site URL: [Live](link here)
+- Live Site URL: [Live](https://tranquil-twilight-8fb9c1.netlify.app/)
 
 ## My process
 
